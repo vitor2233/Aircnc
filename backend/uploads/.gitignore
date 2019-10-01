@@ -1,0 +1,4 @@
+#Ignorar todas as fotos na pasta
+*
+*/
+!.gitignore
